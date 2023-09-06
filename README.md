@@ -5,7 +5,7 @@ Basic CRUD app for taking notes
 ## backend 
 https://pocketbase.io/
 
-(./pocketbase serve)
-## Tutorial
+()
+## Tutorial./pocketbase serve
 
-https://fireship.io/courses/nextjs/basics-next-100s/ (1:30/9)
+https://fireship.io/courses/nextjs/basics-next-100s/ (2:50/9)
