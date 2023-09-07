@@ -8,4 +8,4 @@ https://pocketbase.io/
 ()
 ## Tutorial./pocketbase serve
 
-https://fireship.io/courses/nextjs/basics-next-100s/ (2:50/9)
+https://fireship.io/courses/nextjs/basics-next-100s/ (4:45/9)
